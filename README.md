@@ -8,7 +8,7 @@ Python's GUI library for Desktop Applicationa **TKINTER** is used in to achieve 
 User upload's and  image then the GEMINI model processes the picture and then displays the results on the Tkinter application.
 
 
-**Note**
+**Note:**
 In order to execute this program you would be needing tkinter installed by just using the command **pip install tkinter** on the shell/terminal.
 Secondly git bash will be needed to export the **API KEY** of Gemini (remember make an account and find your api key in gemini)
 Thirdly execute the program and have fun :) 
